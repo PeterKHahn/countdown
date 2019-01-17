@@ -1,0 +1,27 @@
+.container {
+  top: 30%;
+  left: 10px;
+  text-align: center;
+}
+
+.container h2 {
+  font-size: 4rem;
+
+}
+
+.title {
+  font-size: 6rem; 
+  font-family: 'Indie Flower', cursive;
+
+  
+}
+
+.intro {
+  font-size: 4rem; 
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.container a {
+  font-size: 1.4rem;
+}
